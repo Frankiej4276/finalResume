@@ -1,0 +1,14 @@
+/* code for testing purposes */
+.container {
+    /* width: 20px;
+    height: 12px; */
+    text-align: center;
+    align-content: center;
+    padding: 5;
+}
+
+
+.container img {
+    width: 100%;
+    height: auto;
+}
